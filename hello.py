@@ -1,2 +1,2 @@
 print("Hello")
-print("내 이름은 곽지수")
+print("나는 곽지수")
